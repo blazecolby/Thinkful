@@ -1,0 +1,31 @@
+Two versions: Control & Test
+Sample: 2 similar groups. represents population
+Hypothesis: what you expect to happen
+Outcome: What you expect will change from change.
+Variables: Info about groups to ensure similarity; secondary outcomes/their results
+
+All groups will have an equal chance to be in either A or B, and will be equal in size and selected at random.
+
+Does a new supplement help people sleep better?
+  - Give a control group the placebo pill and a test group the actual pill.
+  - Hypothesis: the actual pill will perform better than the placebo.
+  - Outcome: The amount spent in REM will be greater the actual pill.
+  - Variables: To ensure that the groups are similar; take a random sample that ensures same number of gender and aprox. age in each group.
+Will new uniforms help a gym's business?
+  - Have one group of sales personel wear the new shirts and another wear the old.
+  - The new shirts will increase closing rates.
+  - Closing rates is the key metric
+  - It's important to look at the demographics of the two groups(new shirts v old).
+    - Sign up rates for classes. 
+    - Retention rates in both classes and memberships.
+Will a new homepage improve my online exotic pet rental business?
+  - Two versions, one with no change, the other with addons.
+  - The new homepage will improve the business.
+  - Purchases are the key metric.
+  - Additional metrics would be downloads, clicks, heatmaps, and time spent on homepage.
+If I put 'please read' in the email subject will more people read my emails?
+  - Two groups; one with change and one without.
+  - The new email will not perform better.
+  - Open rates will be the key metric.
+  - Variables: To ensure that the groups are similar; take a random sample that ensures same number of gender and aprox. age in each group.
+    - Other metrics could include time spent, number of times opened, downloads, purchases, link clicks, etc.
