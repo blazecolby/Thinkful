@@ -4,12 +4,12 @@ This Repo is a collection of datascience projects that were a part of Thinkful's
 * Economic outlook
 * Networking
 * Branding
-- Job searching, analyzing, applying, & interviewing
+* Job searching, analyzing, applying, & interviewing
 **Unit 1. Data & Analysis**
- - What is data science?
- - SQL
- - Intro to visualization
- - Experimental design
+* What is data science?
+* SQL
+* Intro to visualization
+* Experimental design
 **Unit 2. Supervised Learning**
 - Prep for models
 - Naive Bayes
