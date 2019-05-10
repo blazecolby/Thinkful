@@ -1,6 +1,6 @@
-**Unit 2. Supervised Learning**
-- Prep for models
-- Naive Bayes
-- Classifiers
-- Linear Regression
-- Evaluation OLS
+**Unit 3. Deeper into Supervised Learning**
+- Similarity models
+- Random Forest
+- Advanced Regression
+- SVM
+- Boosting
