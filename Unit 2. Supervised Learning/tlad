@@ -1,0 +1,13 @@
+cntry = categorical
+idno = categorical
+year = continuous - interval
+tvtot = continuous - ratio
+ppltrst = continuous - ordinal
+pplair = continuous - ordinal
+pplhlp = continuous - ordinal
+happy = continuous - ordinal
+sclmeet = continuous - interval
+sclact = continuous - interval
+gndr = categorical 
+agea = continuous - ratio
+partner = categorical
