@@ -1,0 +1,43 @@
+1)
+select *
+FROM sfo_listings
+order by price desc
+limit 1
+
+Price: "9000"	
+ID: "4037590"	
+Title: "NobHill Penthouse-Top View&Location"	
+Host ID: "20871995"	
+Name: "Randy"		
+Neighbourhood: "Nob Hill"	
+Lat/Long: "37.79706916058915"	"-122.4105065515515"	
+Type: "Entire home/apt"	
+Minimum nights: 30	# of reviews: 2
+last review: "2016-09-22"	
+reviews per month: "0.07"	
+listings host has: 1	
+availability 365: "89"
+-----------------------------------------------------------------------
+2)
+select neighbourhood, sum(number_of_reviews) as review_count
+from (select distinct neighbourhood, number_of_reviews from sfo_listings) rev
+group by 1
+order by review_count desc
+
+"Mission"	"20603"
+"Western Addition"	"15368"
+"Castro/Upper Market"	"15311"
+"Bernal Heights"	"13649"
+"Outer Sunset"	"13384"
+-----------------------------------------------------------------------
+3)
+a) January
+Select extract(month from calendar_date), avg(regexp_replace(price::text, '[$,]','','g')::numeric)
+from sfo_calendar
+group by 1
+
+b) October
+Select extract(month from calendar_date) as month, sum(case when available = 'f' then 1 else 0 end) as total_nights_booked
+from sfo_calendar
+group by 1
+order by total_nights_booked desc
