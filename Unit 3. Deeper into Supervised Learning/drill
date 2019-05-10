@@ -1,3 +1,0 @@
-I would take the four categories and apply a knn to show what the default rate is for those consumers.
-The main aspect that would be useful is classifying which item causes a default. 
-There are probably other variations of this model. 
