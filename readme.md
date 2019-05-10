@@ -1,9 +1,9 @@
 This Repo is a collection of datascience projects that were a part of Thinkful's full-time(6 month) data science program. Thinkful is mentor a mentor(industry professional) based education program. Thinkful involves code projects, critical thinking write-ups, presentations, and lot's of feedback. They also ensure a focus on networking, an understanding to the industry, and job placement.  
 
 **Career Preparation**
-- Economic outlook
-- Networking
-- Branding
+* Economic outlook
+* Networking
+* Branding
 - Job searching, analyzing, applying, & interviewing
 **Unit 1. Data & Analysis**
  - What is data science?
