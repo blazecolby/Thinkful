@@ -3,14 +3,14 @@
 - Notebook
 - Interviews
 - Presentation
-
+```bash
 1 directory, 2 files
 scripts/
 └── preprocessing
     ├── generate_tfrecord.py
     └── xml_to_csv.py
-
-'''
+```
+```bash
 13 directories, 64 files
 workspace/
 └── training_demo
@@ -90,4 +90,4 @@ workspace/
         ├── model.ckpt-0.meta
         ├── pipeline.config
         └── ssd_inception_v2_coco.config
-'''
+```
