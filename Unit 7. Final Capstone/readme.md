@@ -5,14 +5,14 @@
 - Presentation
 ```bash
 1 directory, 2 files
-scripts/
+Tensorflow/scripts/
 └── preprocessing
     ├── generate_tfrecord.py
     └── xml_to_csv.py
 ```
 ```bash
 13 directories, 64 files
-workspace/
+Tensorflow/workspace/
 └── training_demo
     ├── annotations
     │   ├── function_test.txt
