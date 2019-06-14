@@ -10,7 +10,7 @@ scripts/
     ├── generate_tfrecord.py
     └── xml_to_csv.py
 
-
+'''
 13 directories, 64 files
 workspace/
 └── training_demo
@@ -90,3 +90,4 @@ workspace/
         ├── model.ckpt-0.meta
         ├── pipeline.config
         └── ssd_inception_v2_coco.config
+'''
