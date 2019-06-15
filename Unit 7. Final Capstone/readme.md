@@ -4,7 +4,7 @@
 - Interviews
 - Presentation
 
-Below is the original file structure; this repo is missing some.
+Below is the original file structure; this git repo is missing a handful of those files.
 ```bash
 1 directory, 2 files
 Tensorflow/scripts/
