@@ -3,6 +3,8 @@
 - Notebook
 - Interviews
 - Presentation
+
+Below is the original file structure; this repo is missing some.
 ```bash
 1 directory, 2 files
 Tensorflow/scripts/
