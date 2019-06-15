@@ -1,4 +1,4 @@
-```
+```bash
 python model_main.py --logtostderr --train_dir=/Users/home/Documents/Tensorflow/workspace/training_demo/training/ --pipeline_config_path=/Users/home/Documents/Tensorflow/workspace/training_demo/training/ssd_inception_v2_coco.config
 
 
