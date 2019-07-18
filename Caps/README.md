@@ -1,3 +1,5 @@
+Projects
+
 Asset allocation analysis: 
 -Supervised learning: [ipynb](https://github.com/blazecolby/Thinkful/blob/master/Unit%203.%20Deeper%20into%20Supervised%20Learning/Capstone/AssetAllocation.ipynb)
 
