@@ -1,7 +1,8 @@
 Projects
 
-Asset allocation analysis: 
-- Supervised learning: [ipynb](https://github.com/blazecolby/Thinkful/blob/master/Unit%203.%20Deeper%20into%20Supervised%20Learning/Capstone/AssetAllocation.ipynb)
+Stock Market Analysis & Prediction: 
+- Supervised learning: [ipynb](https://github.com/blazecolby/Thinkful/blob/master/Unit%203.%20Deeper%20into%20Supervised%20Learning/Capstone/s%26p500_prediction.ipynb)
+- Powerpoint: [pdf](https://github.com/blazecolby/Thinkful/blob/master/Unit%203.%20Deeper%20into%20Supervised%20Learning/Capstone/Status%20report.pdf)
 
 NLP | Comparative analysis of clustering vs. modeling via Amazon reviews:
 - Report: [pdf](https://github.com/blazecolby/Thinkful/blob/master/Unit%204.%20Unsupervised%20Learning/Capstone/capstone_report.pdf)
