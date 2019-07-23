@@ -1,4 +1,4 @@
-# CNN for Multi-Digit Classification
+# CNN for Multi-Figure Classification
 
 This project looks at how Convolutional Neural Networks (CNNs) can be used to effectively identify a series of digits from patent images that are obtained from the United States Patent Office Database (USPTO). 
 
