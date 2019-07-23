@@ -1,4 +1,6 @@
-Collection of datascience projects and work as part of Thinkful's data science apprenticeship. Thinkful involves coding projects, critical thinking write-ups, presentations. They also ensure a focus on networking, an understanding to the industry, and job placement.  
+- Collection of datascience projects and work as part of Thinkful's data science apprenticeship. 
+- Thinkful involves coding projects, critical thinking write-ups, presentations. 
+- They also ensure a focus on networking, an understanding to the industry, and job placement.  
 
 **Unit 1. Data & Analysis**
 - SQL/Postgres
