@@ -1,11 +1,5 @@
 This Repo is a collection of datascience projects that were a part of Thinkful's full-time(6 month) data science apprenticeship progam. Thinkful involves coding projects, critical thinking write-ups, presentations, and lot's of feedback. They also ensure a focus on networking, an understanding to the industry, and job placement.  
 
-**Career Preparation**
-- Economic outlook
-- Networking
-- Branding
-- Job searching, analyzing, applying, & interviewing
-
 **Unit 1. Data & Analysis**
 - What is data science?
 - SQL
@@ -39,13 +33,7 @@ This Repo is a collection of datascience projects that were a part of Thinkful's
 - Advanced expirementation
 
 **Unit 6. Specializations**
-- Time series
-- Network analysis
-- Economics
-- Advanced NLP
-- Social science
 - Tensorflow & Keras
-- Biostats
 - Big data & spark
 
 **Unit 7. Final Capstone**
